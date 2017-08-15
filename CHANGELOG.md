@@ -1,5 +1,10 @@
 ## Release Notes
 
+### 0.7.1
+
+Se agrega cambio de groupId y artifactId porque tenemos problemas porque debemos soportar la 
+version de jdk 1.6
+
 ### 0.7.0
 
 This is a minor feature enhancement and bugfix release.  One of the bug fixes is particularly important if using
